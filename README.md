@@ -1,6 +1,6 @@
 # FizzBuzzPrime
 
-[![Build Status](https://travis-ci.org/AIphaVictor/FizzBuzzPrime.svg?branch=master)](https://travis-ci.org/AIphaVictor/FizzBuzzPrime)
+[![Build Status](https://travis-ci.org/alexvinall/FizzBuzzPrime.svg?branch=master)](https://travis-ci.org/alexvinall/FizzBuzzPrime)
 
 Much like a regular fizzbuzz solution, this program prints "fizz" and "buzz" to standard out to indicate multiples of 3 and 5.
 
